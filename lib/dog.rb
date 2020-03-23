@@ -4,7 +4,7 @@ class Dog
     @name,@breed = name,breed 
    end 
    
- def breed
+ def initialize_Dog 
    @breed 
  end 
 end 
