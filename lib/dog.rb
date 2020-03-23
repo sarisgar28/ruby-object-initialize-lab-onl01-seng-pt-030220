@@ -10,4 +10,5 @@ class Dog
   end 
 end 
  
- breed.new
+ mutt = breed.new
+ 
