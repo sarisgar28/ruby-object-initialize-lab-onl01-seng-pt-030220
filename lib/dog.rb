@@ -10,7 +10,6 @@ class Dog
   end 
 end 
  
- mutt = breed.new
- mutt = breed 
+ 
  
  
