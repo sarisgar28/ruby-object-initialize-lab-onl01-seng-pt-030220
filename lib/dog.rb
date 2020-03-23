@@ -5,10 +5,7 @@ class Dog
     @breed = @breed  
    end 
    
-   def Dog_initialize 
-    @breed 
-  end 
-
+   
 
 end 
  
